@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0918&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daichi0918&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0918&layout=compact&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daichi0918&theme=onedark&show_icons=true" />
+</p>
 <!--
 **daichi0918/daichi0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
