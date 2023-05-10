@@ -2,6 +2,9 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0918&layout=compact&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daichi0918&theme=onedark&show_icons=true" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **daichi0918/daichi0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
