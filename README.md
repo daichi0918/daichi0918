@@ -1,32 +1,12 @@
-<!-- 1. GitHub ユーザー名を変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=daichi0918" />
-</div>
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0918&layout=compact&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daichi0918&theme=onedark&show_icons=true" />
+</p>
 
-
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
-<br>
-
-
-<!-- 4. GitHub ユーザー名を変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&theme=vue-dark&layout=compact" />
-</div>
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=daichi0918&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daichi0918/daichi0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
