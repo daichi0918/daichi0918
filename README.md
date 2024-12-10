@@ -1,10 +1,22 @@
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0918&layout=compact&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daichi0918&theme=onedark&show_icons=true" />
+  <!-- Top Languages -->
+  <img 
+    alt="Top Langs" 
+    height="150px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0918&layout=compact&theme=onedark&langs_count=8" 
+  />
+  <!-- GitHub Stats -->
+  <img 
+    alt="GitHub Stats" 
+    height="150px" 
+    src="https://github-readme-stats.vercel.app/api?username=daichi0918&show_icons=true&theme=onedark" 
+  />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daichi0918&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=daichi0918&theme=onedark&no-bg=true&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- コメントとして残しておくセクション -->
 <!--
 **daichi0918/daichi0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
